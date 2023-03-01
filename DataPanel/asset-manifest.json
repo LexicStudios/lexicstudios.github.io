@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03780159.chunk.css",
+    "main.js": "/static/js/main.963aefe9.chunk.js",
+    "main.js.map": "/static/js/main.963aefe9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8efa77e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8efa77e.js.map",
+    "static/css/2.5dfbe09b.chunk.css": "/static/css/2.5dfbe09b.chunk.css",
+    "static/js/2.92ca284c.chunk.js": "/static/js/2.92ca284c.chunk.js",
+    "static/js/2.92ca284c.chunk.js.map": "/static/js/2.92ca284c.chunk.js.map",
+    "static/js/3.e12f6f24.chunk.js": "/static/js/3.e12f6f24.chunk.js",
+    "static/js/3.e12f6f24.chunk.js.map": "/static/js/3.e12f6f24.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.5dfbe09b.chunk.css.map": "/static/css/2.5dfbe09b.chunk.css.map",
+    "static/css/main.03780159.chunk.css.map": "/static/css/main.03780159.chunk.css.map",
+    "static/js/2.92ca284c.chunk.js.LICENSE.txt": "/static/js/2.92ca284c.chunk.js.LICENSE.txt",
+    "static/media/Soumyajit-Behera.394b6e42.pdf": "/static/media/Soumyajit-Behera.394b6e42.pdf",
+    "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
+    "static/media/style.css": "/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/static/media/home-main.541f8179.svg",
+    "static/media/logo.82a2c459.png": "/static/media/logo.82a2c459.png",
+    "static/media/platformer.a3a72d79.png": "/static/media/platformer.a3a72d79.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8efa77e.js",
+    "static/css/2.5dfbe09b.chunk.css",
+    "static/js/2.92ca284c.chunk.js",
+    "static/css/main.03780159.chunk.css",
+    "static/js/main.963aefe9.chunk.js"
+  ]
+}
